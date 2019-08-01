@@ -1,0 +1,50 @@
+name: client
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+3
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  http: ^0.12.2
+  shared_preferences: ^0.5.12+4
+  cool_alert: ^1.0.3
+  firebase_messaging: ^7.0.3
+  firebase_core: ^0.5.2
+  background_locator: ^1.4.0+1
+  geolocator: ^6.2.1
+  flutter_launcher_icons: ^0.8.1
+  flutter_native_splash: ^0.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/exclamation.png
+    - assets/images/location.png
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/images/logo_png.png
+
+flutter_native_splash:
+  android: true
+  ios: true
+  image: assets/images/logo_png.png
+  color: "#FFFFFF"

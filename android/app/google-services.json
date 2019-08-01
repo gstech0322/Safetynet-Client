@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798612964385",
+    "project_id": "safetynet-14e7c",
+    "storage_bucket": "safetynet-14e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798612964385:android:3e705ab3a4b77d5a938f60",
+        "android_client_info": {
+          "package_name": "com.safetynet.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798612964385-99h9cdfmip6j3agnt9qcvjmq0shqnpsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1IK5-gNZbXSgczfVu5KjyB2_ZtVEx7UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798612964385-99h9cdfmip6j3agnt9qcvjmq0shqnpsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
